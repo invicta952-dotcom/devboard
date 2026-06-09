@@ -1,1 +1,22 @@
 # Waterboard
+#   what is this?
+this is really basic devboard with bare minmum features. it has 50 pins in total. It has an memory of 16 mb. The mcu used in this rp2040. It can only be used in simple task. It  has usb-c for flashing your firmware. It has 24 gipo pins. It has built in-clock of 12mHz
+
+
+#   schnematics overview
+<img width="668" height="438" alt="Screenshot From 2026-06-09 13-24-53" src="https://github.com/user-attachments/assets/a33a7841-595d-45a3-a47a-35d017d88455" />
+<br>
+i know the schnematics is kind of messy but it is what it is
+
+#   pcb
+<img width="837" height="530" alt="Screenshot From 2026-06-09 13-25-57" src="https://github.com/user-attachments/assets/811ba5f7-5f21-4292-9e5d-bbed5b544361" />
+<br>
+there are many shape i could have taken but i decided to go with dolphine because i wanted it to resemble something from minecraft which is one of my favourite game.
+
+
+#   3D view
+<img width="661" height="422" alt="Screenshot From 2026-06-09 13-27-24" src="https://github.com/user-attachments/assets/b38f5ded-fbb8-4401-8823-9d12c2cffc93" />
+<img width="640" height="426" alt="Screenshot From 2026-06-09 13-27-07" src="https://github.com/user-attachments/assets/cb836a7d-796b-4cb0-a7d3-8a122aa401a5" />
+<br> 
+the board kinda looks empty because i cant find cool silkscreen
+
