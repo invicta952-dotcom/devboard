@@ -2,6 +2,26 @@
 #   what is this?
 this is really basic devboard with bare minmum features. it has 50 pins in total. It has an memory of 16 mb. The mcu used in this rp2040. It can only be used in simple task. It  has usb-c for flashing your firmware. It has 24 gipo pins. It has built in-clock of 12mHz
 
+#   how to use this??
+just connect the devboard with your computer and flash the code and enjoy.
+
+#  how to assemble?
+i wouldnt recommend this to you if u are an begineer, instead get it pcba
+#    pcba
+1) dowload the geber file from repo
+2) go to jlcpcb or any other pcb service provider
+3) upload the gerber
+4) scroll down and select pcba
+5) order it
+6) enjoy
+
+
+#    pcb
+1) same as pcba till 3 step
+2) order the pcb without pcba
+3) order the components given in BOM
+4) solder all the components on pcb using hot plate
+
 
 #   schnematics overview
 <img width="668" height="438" alt="Screenshot From 2026-06-09 13-24-53" src="https://github.com/user-attachments/assets/a33a7841-595d-45a3-a47a-35d017d88455" />
