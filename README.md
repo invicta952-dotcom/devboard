@@ -19,4 +19,8 @@ there are many shape i could have taken but i decided to go with dolphine becaus
 <img width="640" height="426" alt="Screenshot From 2026-06-09 13-27-07" src="https://github.com/user-attachments/assets/cb836a7d-796b-4cb0-a7d3-8a122aa401a5" />
 <br> 
 the board kinda looks empty because i cant find cool silkscreen
+<br>
+<br>
+#   BOM
+
 
