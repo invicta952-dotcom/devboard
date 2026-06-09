@@ -2,6 +2,12 @@
 #   what is this?
 this is really basic devboard with bare minmum features. it has 50 pins in total. It has an memory of 16 mb. The mcu used in this rp2040. It can only be used in simple task. It  has usb-c for flashing your firmware. It has 24 gipo pins. It has built in-clock of 12mHz
 
+#   what make this unique?
+first is shape but it is not uniqe enough. I followed the guide in blueprint but the main diffrenec is in clock and memory. the memory i used is used in raspberry modules.
+
+#   why i made this??
+i have few components lying around from which i could make something but i didnt have the brain which could be used for the hardware, so now this devboard is going to be the brain for my upcomming projects.Additionaly, this is also one of the best project to learn hardware.
+
 #   how to use this??
 just connect the devboard with your computer and flash the code and enjoy.
 
