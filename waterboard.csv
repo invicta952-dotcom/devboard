@@ -1,0 +1,18 @@
+Reference,Qty,Value,cost,part no,link
+"C1,C2,C3,C4,C5,C6,C7,C8,C11,C12,C17",11,0.1uF,$0.18,C60474,https://www.lcsc.com/product-detail/C60474.html
+"C9,C10",2,1uF,$0.38,C29266,https://www.lcsc.com/product-detail/C29266.html
+"C13,C14",2,10uF,$0.31,C315248,https://www.lcsc.com/product-detail/C315248.html
+"C15,C16",2,33pF,$0.50,C70465,https://www.lcsc.com/product-image/C70465.html
+J1,1,USB_C_Receptacle_USB2.0_14P,$0.41,C168704,https://www.lcsc.com/product-detail/C168704.html
+"R1,R2",2,5.1K,$0.10,C105872,https://www.lcsc.com/product-detail/C105872.html?spm=wm.fly.bg.22.stp&lcsc_vid=RgVeX1JSTlZaVgcDQVhaBQcHRgVWX1VSTwAIXgVTRAIxVlNRQFlbVVxWR1ddVjtW
+"R3,R4",2,27,$0.02,C2933393,https://item.szlcsc.com/3279495.html?spm=sc.it.tj.1-19&c=zx&lcsc_vid=RVRbUgVVElhWAwEHRVdYUAUEEVUKX1NeR1UIAwYDQ1kxVlNeR1JbX1BWR1RWVjtW&alichlgref=https%3A%2F%2Fitem.szlcsc.com%2F3279495.html%3Fspm%3Dsc.it.tj.1-19%26c%3Dzx%26lcsc_vid%3DRVRbUgVVElhWAwEHRVdYUAUEEVUKX1NeR1UIAwYDQ1kxVlNeR1JbX1BWR1RWVjtW
+"R5,R6",2,1K,$0.52,C242161,https://www.lcsc.com/product-image/C242161.html
+R7,1,10K,$0.93,C190095,https://www.lcsc.com/product-detail/C190095.html
+SW1,1,SW_Push,$1.59,C692488,https://www.lcsc.com/product-detail/C692488.html
+U1,1,RP2040,$1.44,C2961140,https://www.lcsc.com/product-detail/C2961140.html
+U3,1,W25Q128JVS,$2.64,C97521,https://www.lcsc.com/product-detail/C97521.html
+U4,1,MCP1700x-330xxTT,$2.25,C39051,https://www.lcsc.com/product-detail/C39051.html
+Y1,1,12 MHz,$0.75,C9002,https://www.lcsc.com/product-detail/C9002.html
+PCB,5,,$2.00,-,-
+Shipping,,TOTAL,$10.00,-,-
+,,TOTAL,$24.00,,
