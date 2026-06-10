@@ -50,7 +50,7 @@ the board kinda looks empty because i cant find cool silkscreen
 
 
 #   zine
-<img width="148" height="210" alt="WATERBOARD (1)" src="https://github.com/user-attachments/assets/9a1765d9-6dde-4080-bb09-e5cc90a183df" />
+<img width="404" height="618" alt="Untitled design (2)" src="https://github.com/user-attachments/assets/bfcce8d9-5399-4284-8aa0-bc058c101db2" />
 
 
 
